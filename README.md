@@ -1,7 +1,10 @@
+
+<img src='https://cdn3.f-cdn.com/contestentries/1683544/29258875/5de652e07bf20_thumb900.jpg'/>
+
 ### Hello there 👋
 <hr/>
 My name is Ľuboš and I am a front-end web developer based in Slovak Republic. <br/>
-I take effort to create amazing things for the web and enjoy the process of doing so.
+I take effort to create amazing things for the web and I enjoy the process of doing so.
 
 <br/>
 <br/>
