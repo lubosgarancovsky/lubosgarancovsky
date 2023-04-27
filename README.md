@@ -11,7 +11,7 @@ I take effort to create amazing things for the web and I enjoy the process of do
 <div>
   <a href='https://twitter.com/LGarancovsky' target='_blank'><img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/></a>
   <a href='www.linkedin.com/in/lubos-garancovsky'  target='_blank'><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href='https://lubosgarancovsky.github.io/Portfolio'  target='_blank'><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=GitHub&logoColor=white" alt="Twitter Badge"/></a>
+  <a href='https://lubosgarancovsky.github.io/Portfolio-old'  target='_blank'><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=GitHub&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 
 
