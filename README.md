@@ -1,5 +1,5 @@
 
-<img src='[https://cdn3.f-cdn.com/contestentries/1683544/29258875/5de652e07bf20_thumb900.jpg](https://cdn.steamstatic.com/steamcommunity/public/images/items/619150/3bb00cbe95127f2fe36c85a33cfe69f4e5911234.jpg)'/>
+<img src='https://cdn.steamstatic.com/steamcommunity/public/images/items/619150/3bb00cbe95127f2fe36c85a33cfe69f4e5911234.jpg'/>
 
 ### Hello there 👋
 <hr/>
