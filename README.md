@@ -11,6 +11,7 @@ A web developer constantly seeking to improve my skills by learning new technolo
   <a href='mailto:lubos.garancovsky@gmail.com' target='_blank'>
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
   </div>
 
 ## Tech stack
@@ -46,6 +47,13 @@ A web developer constantly seeking to improve my skills by learning new technolo
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
   <img src="https://img.shields.io/badge/Knex.js-D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
+</div>
+
+## Website
+<div>  
+  <a href='https://lubosgarancovsky.github.io/v2/' target='_blank'>
+     Online portfolio
+  </a>
 </div>
 
 <hr/>
