@@ -7,8 +7,3 @@ Javascript/Typescript & Java developer primarily focusing on building web applic
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lubosgarancovsky&layout=donut&theme=dracula)](https://github.com/lubosgarancovsky/github-readme-stats)
-
-
-# Website
-<a href="https://lubosgarancovsky.github.io/v2/" target="blank">lubosgarancovsky.github.io/v2</a>
-
